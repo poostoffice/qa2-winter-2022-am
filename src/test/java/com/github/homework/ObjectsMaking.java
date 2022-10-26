@@ -86,7 +86,8 @@ public class ObjectsMaking {
     ski.setItemCount(1);
     ski.setTotalPrice(777);
 
-    System.out.println("Vasya kupil" + "Car" + "i kvartiru tozhe" + "House" + "Phone" + "Book" + "i esche on kupil");
+    System.out.println("Neo bought" + "" + "Car" + "" + "and new flat");
+    System.out.println("the car is:");
     System.out.println(car.getColor() + car.getModel() + car.getTotalPrice());
     System.out.println(house.getFloor() + house.getAddress() + house.getRoomCount() + house.getTotalPrice());
     System.out.println(phone.getColor() + phone.getModel() + phone.getTotalPrice());
